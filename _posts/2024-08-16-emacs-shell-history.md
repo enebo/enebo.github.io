@@ -16,7 +16,7 @@ my old JRuby command history and my `mri` shell has old C Ruby command
 history.  No mixing of history between shells or complete destruction of
 history (e.g.last shell closed wins at writing the file).
 
-Talk about a post made for an obscure Venn diagram of users :smiley:  Yet,
+Talk about a post made for an obscure Venn diagram of users 😃  Yet,
 here I am helping out the dozens of netizens who may want this.
 
 # Bash Configuration
